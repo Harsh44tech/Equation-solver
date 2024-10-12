@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+h1{
+  text-align: center;
+  margin-top: 9px !important;
+}
+h3{
+  margin-top: 15px;
+  margin-left: 20px;
+}
+input{
+  height:7vh; 
+ width: 70vw;
+ font-size: 20px;
+ color: black;
+ background-color: #e3e3e3;
+ border: 1.7px solid #000;
+}
+.input_box{
+  margin-left: 14px;
+ margin-top: 4px;
+ margin-bottom: 6px;
+}
+#btn{
+  margin-left: 50vw !important;
+  margin-bottom: 5px;
+}
+.contain{
+  margin-top: 6px;
+  width: 60vw;
+  margin-left: 4px;
+  font-size: 18px;
+  background-color: #e6e6e6;
+  border: 1.5px solid black;
+}
+#main{
+  display: none;
+}
+nav{
+  border: 1px solid black !important;
+}
